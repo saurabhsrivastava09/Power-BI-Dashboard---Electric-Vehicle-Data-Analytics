@@ -11,6 +11,8 @@ The project is structured into several interactive dashboards, each offering uni
 ### 1. Main Page
 This serves as the welcoming interface for the Power BI report. It features a visually engaging background of an EV charging, with a clear title "Electric Vehicle Data Analytics." The page provides a simple navigation menu, allowing users to easily navigate through the different analytical sections of the dashboard.
 
+![Electric Vehicle Data Analytics Main Page](Main Page.jpeg)
+
 ### 2. EV Vehicle Statistics
 This snapshot provides an overall view of EV vehicle registration patterns across counties, year-over-year growth, and insights into popular EV manufacturers and Clean Alternative Fuel Vehicle (CAFV) eligibility.
 * **Key Insights:** King County dominates EV registrations (56.86%), significant year-over-year growth for both Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV) from 2020-2023, and Tesla showing exponential growth in popularity. A substantial portion (51.71%) of CAFV eligibility is unknown due to unresearched battery range.
