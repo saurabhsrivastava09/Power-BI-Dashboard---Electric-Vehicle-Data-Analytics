@@ -18,13 +18,23 @@ This serves as the welcoming interface for the Power BI report. It features a vi
 This snapshot provides an overall view of EV vehicle registration patterns across counties, year-over-year growth, and insights into popular EV manufacturers and Clean Alternative Fuel Vehicle (CAFV) eligibility.
 * **Key Insights:** King County dominates EV registrations (56.86%), significant year-over-year growth for both Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV) from 2020-2023, and Tesla showing exponential growth in popularity. A substantial portion (51.71%) of CAFV eligibility is unknown due to unresearched battery range.
 
+![EV Vehicle Statistics](https://github.com/user-attachments/assets/4d574f01-b666-435b-8db6-8dc06ab3aa4f)
+
+
 ### 3. WA State - Vehicle Statistics
 This section expands the analysis to the broader Washington State context, offering a comparative view of vehicle registrations across counties and by fuel type.
 * **Key Insights:** King, Snohomish, and Pierce counties lead in overall vehicle registrations. The trends show increasing Electric and Hybrid registrations over time, while Gasoline registrations are declining. The Hybrid and Electric Ratio varies by county, with some counties like San Juan showing higher ratios.
 
+![WA State - Vehicle Statistics](https://github.com/user-attachments/assets/004a5d41-61b0-4f89-95ef-e8ff683628fe)
+
+
 ### 4. King County Statistics
 This snapshot provides a focused, in-depth look at King County, identified as the county with the most EV registrations in Washington State.
 * **Key Insights:** King County has experienced exponential growth in EV registrations, particularly post-2020. While Gasoline still holds the largest share in fuel type popularity, Electric and Hybrid vehicles collectively represent a significant portion. The analysis also highlights a consistent and large number of high-efficiency vehicles registered in the county.
+
+![King County Statistics](https://github.com/user-attachments/assets/f56553d8-19e9-4cb3-a883-e13b6ec6708e)
+
+![Credits](https://github.com/user-attachments/assets/5eec2cd4-d4d5-45a3-8d45-9ef3aaea127e)
 
 ## Data Sources
 
