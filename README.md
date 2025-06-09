@@ -11,7 +11,8 @@ The project is structured into several interactive dashboards, each offering uni
 ### 1. Main Page
 This serves as the welcoming interface for the Power BI report. It features a visually engaging background of an EV charging, with a clear title "Electric Vehicle Data Analytics." The page provides a simple navigation menu, allowing users to easily navigate through the different analytical sections of the dashboard.
 
-![Electric Vehicle Data Analytics Main Page](Main Page.jpeg)
+![Main Page](https://github.com/user-attachments/assets/fb84022e-fe65-4884-ab4f-2a9383c9c498)
+
 
 ### 2. EV Vehicle Statistics
 This snapshot provides an overall view of EV vehicle registration patterns across counties, year-over-year growth, and insights into popular EV manufacturers and Clean Alternative Fuel Vehicle (CAFV) eligibility.
