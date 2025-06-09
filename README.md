@@ -14,6 +14,7 @@ This serves as the welcoming interface for the Power BI report. It features a vi
 ![Main Page](https://github.com/user-attachments/assets/fb84022e-fe65-4884-ab4f-2a9383c9c498)
 
 
+
 ### 2. EV Vehicle Statistics
 This snapshot provides an overall view of EV vehicle registration patterns across counties, year-over-year growth, and insights into popular EV manufacturers and Clean Alternative Fuel Vehicle (CAFV) eligibility.
 * **Key Insights:** King County dominates EV registrations (56.86%), significant year-over-year growth for both Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV) from 2020-2023, and Tesla showing exponential growth in popularity. A substantial portion (51.71%) of CAFV eligibility is unknown due to unresearched battery range.
@@ -21,11 +22,13 @@ This snapshot provides an overall view of EV vehicle registration patterns acros
 ![EV Vehicle Statistics](https://github.com/user-attachments/assets/4d574f01-b666-435b-8db6-8dc06ab3aa4f)
 
 
+
 ### 3. WA State - Vehicle Statistics
 This section expands the analysis to the broader Washington State context, offering a comparative view of vehicle registrations across counties and by fuel type.
 * **Key Insights:** King, Snohomish, and Pierce counties lead in overall vehicle registrations. The trends show increasing Electric and Hybrid registrations over time, while Gasoline registrations are declining. The Hybrid and Electric Ratio varies by county, with some counties like San Juan showing higher ratios.
 
 ![WA State - Vehicle Statistics](https://github.com/user-attachments/assets/004a5d41-61b0-4f89-95ef-e8ff683628fe)
+
 
 
 ### 4. King County Statistics
